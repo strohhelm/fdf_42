@@ -27,3 +27,4 @@ Each number represents a point in space:
 
 The example file renders this:
 
+(./screenshots/7.png)

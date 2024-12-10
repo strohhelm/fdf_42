@@ -1,0 +1,9 @@
+.vscode
+.DS_Store
+*.a
+*.o
+obj
+bonus_obj
+MLX42
+fdf
+fdf_bonus
